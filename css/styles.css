@@ -1,0 +1,31 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+    background-color:lightslategray ;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+img {
+    border-radius: 50%;
+    padding: 30px;
+    width: 50%;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-right: 40px;
+    color: white;
+}
+
+ul li {
+    padding-bottom: 1rem;
+}
